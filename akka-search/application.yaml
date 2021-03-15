@@ -1,0 +1,8 @@
+service:
+  receiveTimeout: 1500
+  responseTimeout: 5000
+
+servers:
+  googleUrl: http://localhost:8080/search
+  yandexUrl: http://localhost:8081/search
+  bingUrl: http://localhost:8082/search
