@@ -1,0 +1,3 @@
+db:
+  url: mongodb://root:1234@localhost
+  database: gym
